@@ -1,12 +1,6 @@
 # SCMetrics
 Exploration of Spinal Cord Metrics and Clinical Outcomes in Multiple Sclerosis
-
-This work was done as part of CS289, UC Berkeley's Intro to Machine Learning class in Fall 2015.
-
 (Sample data is not included since it includes patient information)
-
-More information about this work can be found in this video:
-https://www.youtube.com/watch?v=hBk6F4KtDC4&f
 
 ## Motivation
 ![Spinal Cord Diagram](readme_pics/Fig1.jpg)
